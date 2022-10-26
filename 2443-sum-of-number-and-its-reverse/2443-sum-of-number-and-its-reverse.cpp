@@ -9,8 +9,7 @@ class Solution {
     }
 public:
     bool sumOfNumberAndReverse(int num) {
-        int o = num/2;
-        for(int i = o; i <= num; i++){
+        for(int i = num/2; i <= num; i++){
             if (i + reverse(i) == num)
                 return true;
         }

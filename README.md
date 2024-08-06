@@ -13,8 +13,7 @@ This repository contains my solutions to various LeetCode and GeeksforGeeks prob
 Welcome to my problem-solving tracker! This repository serves as a collection of my solutions to coding problems from LeetCode and GeeksforGeeks. By solving these problems, I aim to improve my coding skills, problem-solving abilities, and prepare for technical interviews.
 
 
-- **LeetCode/**: Contains subdirectories for each LeetCode problem, with each subdirectory containing a `README.md` file with the problem description and a solution file.
-- **GeeksforGeeks/**: Contains subdirectories for each GeeksforGeeks problem, with each subdirectory containing a `README.md` file with the problem description and a solution file.
+- **Question Name**: Directory for each LeetCode/GeeksforGeeks problem, with each containing a `README.md` file with the problem description and a solution file.
 
 ## Extensions Used
 ### LeetHub

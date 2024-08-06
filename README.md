@@ -15,6 +15,13 @@ Welcome to my problem-solving tracker! This repository serves as a collection of
 
 - **Question Name**: Directory for each LeetCode/GeeksforGeeks problem, with each containing a `README.md` file with the problem description and a solution file.
 
+## Folder Structure
+The repository is organized as follows:
+
+- Question Name
+  - Solution
+  - README.md
+
 ## Extensions Used
 ### LeetHub
 [LeetHub](https://github.com/QasimWani/LeetHub) is a browser extension that automatically syncs your LeetCode submissions to your GitHub repository.

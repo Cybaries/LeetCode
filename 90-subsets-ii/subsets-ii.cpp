@@ -5,9 +5,11 @@ public:
             res.push_back(path);
             return;
         }
+        //Include
         path.push_back(nums[index]);
         dfs(index+1, nums, path, res);
         path.pop_back();
+        //Exclude + skip similar occurrences since we're excluding this
         while (index < nums.size()-1 && nums[index] == nums[index+1]){
             index++;
         }

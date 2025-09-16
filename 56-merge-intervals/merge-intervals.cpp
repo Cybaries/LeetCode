@@ -1,25 +1,18 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& arr) {
-       int n = arr.size(); // size of the array
-
-    //sort the given intervals:
-    sort(arr.begin(), arr.end());
-
-    vector<vector<int>> ans;
-
-    for (int i = 0; i < n; i++) {
-        // if the current interval does not
-        // lie in the last interval:
-        if (ans.empty() || arr[i][0] > ans.back()[1]) {
-            ans.push_back(arr[i]);
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        if (intervals.size() <= 0) return intervals;
+        sort(intervals.begin(), intervals.end());
+        vector<vector<int>> ans;
+        ans.push_back(intervals[0]);
+        for (int i = 1; i < intervals.size(); i++){
+            if (intervals[i][0] <= ans.back()[1]){
+                ans.back()[1] = max(intervals[i][1], ans.back()[1]);
+            }
+            else{
+                ans.push_back(intervals[i]);
+            }
         }
-        // if the current interval
-        // lies in the last interval:
-        else {
-            ans.back()[1] = max(ans.back()[1], arr[i][1]);
-        }
-    }
-    return ans;
+        return ans;
     }
 };

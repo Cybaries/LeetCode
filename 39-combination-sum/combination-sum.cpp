@@ -1,11 +1,11 @@
 class Solution {
 public:
     void dfs(int index, vector<int>& candidates,int target, vector<int>& path, vector<vector<int>>& res){
-        if (target < 0 || index == candidates.size()) return;
         if (target == 0){
             res.push_back(path);
             return;
         }
+        if (target < 0 || index == candidates.size()) return;
         //Include same
         path.push_back(candidates[index]);
         dfs (index, candidates, target - candidates[index], path, res);

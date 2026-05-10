@@ -1,0 +1,26 @@
+// Last updated: 11/05/2026, 01:32:34
+class Solution {
+    void dj(vector <int> v, int index, int &ans){
+        if(index==v.size()){
+            ans++;
+            return;
+        }
+        for(int i=index;i<v.size();i++){
+            if(v[i]%(index+1)==0 || (index+1)%v[i]==0){
+                swap(v[i], v[index]);
+                dj(v, index+1, ans);
+                swap(v[i], v[index]);
+            }
+        }
+    }
+public:
+    int countArrangement(int n) {
+        vector <int> v;
+        int ans=0;
+        for(int i=1; i <= n; i++){
+            v.push_back(i);
+        }
+        dj(v, 0, ans);
+        return ans;
+    }
+};

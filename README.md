@@ -46,12 +46,14 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Cybaries/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Cybaries/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Cybaries/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Cybaries/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Cybaries/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Cybaries/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Cybaries/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Cybaries/LeetCode/tree/main/0190-reverse-bits/) | Easy |
@@ -73,4 +75,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Cybaries/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Cybaries/LeetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->

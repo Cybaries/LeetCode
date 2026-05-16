@@ -60,6 +60,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0191-number-of-1-bits](https://github.com/Cybaries/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Cybaries/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Cybaries/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [0338-counting-bits](https://github.com/Cybaries/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Cybaries/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -79,4 +80,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Cybaries/LeetCode/tree/main/0078-subsets/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Cybaries/LeetCode/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->

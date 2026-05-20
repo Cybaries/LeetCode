@@ -84,4 +84,20 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Cybaries/LeetCode/tree/main/0338-counting-bits/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->

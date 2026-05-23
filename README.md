@@ -80,6 +80,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Cybaries/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,10 +89,12 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +103,5 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->

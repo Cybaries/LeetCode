@@ -93,6 +93,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +113,5 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

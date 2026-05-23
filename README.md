@@ -84,17 +84,20 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0338-counting-bits](https://github.com/Cybaries/LeetCode/tree/main/0338-counting-bits/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,4 +107,5 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->

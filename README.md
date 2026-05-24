@@ -87,6 +87,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0338-counting-bits](https://github.com/Cybaries/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

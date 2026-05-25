@@ -91,6 +91,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Cybaries/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
@@ -116,11 +117,13 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Cybaries/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Cybaries/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |

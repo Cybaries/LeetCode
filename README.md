@@ -97,6 +97,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Cybaries/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Cybaries/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -110,6 +111,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Cybaries/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
@@ -120,6 +122,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0102-binary-tree-level-order-traversal](https://github.com/Cybaries/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Cybaries/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0112-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Cybaries/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cybaries/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Cybaries/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Cybaries/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |

@@ -107,6 +107,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Depth-First Search
@@ -125,6 +126,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Breadth-First Search
@@ -137,6 +139,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0199-binary-tree-right-side-view](https://github.com/Cybaries/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Cybaries/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -157,6 +160,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Search
@@ -170,5 +174,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 <!---LeetCode Topics End-->

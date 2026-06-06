@@ -50,6 +50,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0136-single-number](https://github.com/Cybaries/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Cybaries/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Cybaries/LeetCode/tree/main/0260-single-number-iii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Cybaries/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +177,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | ------- | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Cybaries/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->

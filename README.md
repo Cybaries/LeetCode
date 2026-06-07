@@ -112,6 +112,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Cybaries/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Cybaries/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +169,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Cybaries/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +188,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Cybaries/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Cybaries/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 <!---LeetCode Topics End-->

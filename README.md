@@ -108,6 +108,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Cybaries/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Cybaries/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cybaries/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -130,6 +131,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Cybaries/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cybaries/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -168,6 +170,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0437-path-sum-iii](https://github.com/Cybaries/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Cybaries/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Cybaries/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cybaries/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/Cybaries/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -186,6 +189,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Cybaries/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Cybaries/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Cybaries/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/Cybaries/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -114,6 +114,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Cybaries/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Cybaries/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Depth-First Search
@@ -137,6 +138,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Cybaries/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Cybaries/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Breadth-First Search
@@ -176,6 +178,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0662-maximum-width-of-binary-tree](https://github.com/Cybaries/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Cybaries/LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Cybaries/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Cybaries/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Cybaries/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Cybaries/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Binary Search
@@ -190,6 +193,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Cybaries/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Cybaries/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Cybaries/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Cybaries/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
